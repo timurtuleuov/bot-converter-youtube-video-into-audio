@@ -4,7 +4,7 @@ from downloader import download
 import random
 
 
-API_TOKEN = '5671087415:AAG9p_RoG0IczD9450fX1ggk4UAwWp7PsAM'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
